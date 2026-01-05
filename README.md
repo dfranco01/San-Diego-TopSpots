@@ -16,7 +16,7 @@ HTML, CSS, Vanilla JavaScript, JQuery
 - Search bar to allow users to search activities by keyword
 
 ## Demo 📷
-
+[Demo](https://github.com/dfranco01/San-Diego-TopSpots/blob/main/demo/Screen%20Recording%202026-01-05%20010712.mp4)
 
 ## Contributing 🤝
 Feel free to open issues, submit Pull Requests, or suggest improvements!
